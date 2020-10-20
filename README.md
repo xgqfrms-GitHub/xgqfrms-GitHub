@@ -13,6 +13,13 @@ Here are some ideas to get you started:
 
 ![xgqfrms-GitHub github stats](https://github-readme-stats.vercel.app/api?username=xgqfrms-GitHub&show_icons=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xgqfrms-github)
+
+![](https://visitor-badge.glitch.me/badge?page_id=xgqfrms-github)
+
+
+<a href="https://info.flagcounter.com/teNM"><img src="https://s01.flagcounter.com/count2/teNM/bg_00FF00/txt_000000/border_000000/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 <!--
 **xgqfrms-GitHub/xgqfrms-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,5 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
